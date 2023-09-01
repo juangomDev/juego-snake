@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: rgb(208, 255, 177);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.data{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.juego{
+    background-color: black;
+    border: 8px solid black;
+    width: 400px;
+}
