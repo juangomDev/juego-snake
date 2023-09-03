@@ -118,3 +118,7 @@ function brickRan() {
     brick.x = random(16, 370)
     brick.y = random(16, 370)
 }
+
+
+//juangomDev 
+//Khanjuan123
